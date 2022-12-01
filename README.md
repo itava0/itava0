@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I've been learning to code for 4 years, after switching careers. I started with HTML, but have found a passion for React development.
+I've been coding for more than 4 years, after switching careers. I started with HTML, but have found a passion for React development.
 
 * 🌍  I'm based in Charlotte, NC
 * 🖥️  See my portfolio at [https://itavarez.com](http://itavarez.com)
