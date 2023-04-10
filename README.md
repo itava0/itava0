@@ -8,7 +8,7 @@ I've been coding for more than 4 years, after switching careers. I started with 
 
 * 🌍  I'm based in Charlotte, NC
 * 🖥️  See my portfolio at [https://itavarez.com](http://itavarez.com)
-* ✉️  You can contact me at [igortavarez0@gmail.com](mailto:igortavarez0@gmail.com)
+* ✉️  You can contact me at [itavare0@gmail.com](mailto:itavare0@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on anything, please feel free to reach out to me.
 
